@@ -5,6 +5,9 @@ set -x
 cd $MODDIR
 
 MountList="
+/product/priv-app/Wellbeing/Wellbeing.apk
+/product/app/LatinImeGoogle/LatinImeGoogle.apk
+/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
 /product/app/Chrome/Chrome.apk
 /product/app/Maps/Maps.apk
 /product/app/YouTube/YouTube.apk
